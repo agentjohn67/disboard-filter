@@ -21,7 +21,7 @@ Disboard refuses to do anything about them. Their official policy is "If a serve
 1. Install [Tampermonkey](https://www.tampermonkey.net/) for your browser
 2. Click the link below to install the script:
 
-   **[Install Disboard Filters](https://raw.githubusercontent.com/agentjohn67/disboard-filters/main/script.user.js)**
+   **[Install Disboard Filters](https://raw.githubusercontent.com/agentjohn67/disboard-filter/main/script.user.js)**
 
 3. Done! Tampermonkey might ask you about loading the blocklist from github, just press allow.
 
@@ -34,3 +34,4 @@ If you've found a gateway server that isn't on the list, feel free to add me on 
 ## License
 
 [GPL 3.0](https://github.com/agentjohn67/disboard-filter/blob/main/LICENSE)
+
